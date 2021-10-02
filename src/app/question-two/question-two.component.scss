@@ -1,3 +1,6 @@
+.active {
+    background-color: coral;
+  }
 .parent {
     position: relative;
     /* try changing the width! */
@@ -6,11 +9,11 @@
     border: 2px solid black;
   }
   
-  .star {
-    position: absolute;
-    padding-left: 45%;
-    padding-top: 20%;
-    /* Only allow to add content inside this block */
-  
-    /* */
-  }
+.star {
+position: absolute;
+padding-left: 45%;
+padding-top: 20%;
+/* Only allow to add content inside this block */
+
+/* */
+}
