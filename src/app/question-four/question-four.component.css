@@ -1,0 +1,24 @@
+.active {
+  background-color: coral;
+}
+
+#answerBox {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  border: 3px dotted black;
+  max-width: 365px;
+  padding: .2em;
+  margin-bottom: 20px;
+}
+
+#colorPicker {
+  display: grid;
+  max-width: 20%;
+}
+
+#colorPicker button {
+  display: inline-block;
+  max-width: 150px;
+  cursor: pointer;
+}
