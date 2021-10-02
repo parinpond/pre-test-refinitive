@@ -1,3 +1,7 @@
+.active {
+  background-color: coral;
+}
+
 .parent {
   position: relative;
   /* try changing the width! */
