@@ -1,27 +1,29 @@
-# PreTestRefinitive
+# Pre-rest Refinitive
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
+**install code**
+    
+    git clone https://github.com/parinpond/pre-test-refinitive.git
 
-## Development server
+    npm install
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+    ng serve --open
 
-## Code scaffolding
+    http://localhost:4200/
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+**Question 1**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Question 2**
 
-## Running end-to-end tests
+![q2](https://user-images.githubusercontent.com/40853593/135728260-05cf5af6-118c-470c-a007-c25a4ad30f83.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+**Question 3**
 
-## Further help
+**Question 4**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![q4](https://user-images.githubusercontent.com/40853593/135728276-117823f1-f86b-46ed-9587-c5ec4599c90e.png)
+
+**Question 5**
+
