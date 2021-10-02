@@ -13,13 +13,15 @@ import {DemoMaterialModule} from './material-module';
 import { QuestionOneComponent } from './question-one/question-one.component';
 import { QuestionTwoComponent } from './question-two/question-two.component';
 import { QuestionThreeComponent } from './question-three/question-three.component';
+import { QuestionFourComponent } from './question-four/question-four.component';
 @NgModule({
   declarations: [
     AppComponent,
     DashboardComponent,
     QuestionOneComponent,
     QuestionTwoComponent,
-    QuestionThreeComponent
+    QuestionThreeComponent,
+    QuestionFourComponent
   ],
   imports: [
     BrowserModule,
