@@ -9,10 +9,7 @@ export class QuestionService {
   constructor(private http:HttpClient) { }
   httpOptions={
     headers: new HttpHeaders({
-      'content-type':'application/json',
-      'Access-Control-Allow-Headers': 'Content-Type',
-      'Access-Control-Allow-Methods': 'GET',
-      'Access-Control-Allow-Origin': '*'
+      'content-type':'application/json'
     })
   }
   getDataQuestionOne():Observable<QuestionOneModel>{

@@ -1,3 +1,3 @@
 export class QuestionOneModel{
-    data:number=0;
+    data:any=[];
  }
