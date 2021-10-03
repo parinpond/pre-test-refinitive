@@ -1,0 +1,13 @@
+
+<button mat-button routerLink="" >Home</button>
+<button mat-button routerLink="/one">Question 1</button>
+<button mat-button routerLink="/two" >Question 2</button>
+<button mat-button routerLink="/three">Question 3</button>
+<button mat-button routerLink="/four" routerLinkActive="active">Question 4</button>
+<button mat-button routerLink="/five">Question 5</button>
+<mat-card>
+<mat-card-title>Question 4</mat-card-title>
+<mat-card-subtitle>Write code to show RGB code that users clicked inside the answer box.</mat-card-subtitle>
+<div id="answerBox">{{answer}}</div>
+<div id="colorPicker" (click)="showRGB($event)"></div>
+</mat-card>

@@ -1,0 +1,18 @@
+
+<button mat-button routerLink="" >Home</button>
+<button mat-button routerLink="/one" routerLinkActive="active">Question 1</button>
+<button mat-button routerLink="/two">Question 2</button>
+<button mat-button routerLink="/three">Question 3</button>
+<button mat-button routerLink="/four">Question 4</button>
+<button mat-button routerLink="/five">Question 5</button>
+<mat-card>
+<mat-card-title>Question 1</mat-card-title>
+    <mat-card-content>
+        <div>1.1 Please correct the code, so it really prints out the expected result (100). You can fix it
+    anyway you like but it still has to call fetch as the source of data.</div>
+        <div>Answer : {{number1*result}}</div>
+        <div>1.2 Is there a way to make thisIsSyncFunction reallysynchronous, so number1 has the value 10 before it is used for the calculation on the next line.</div>
+        <div>Answer : number1 = {{number1}}</div>
+        <div>   calculation = {{number1*result}}</div>
+    </mat-card-content>
+</mat-card>
