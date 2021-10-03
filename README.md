@@ -13,8 +13,7 @@
 
 **Question 1**
 
-
-
+![q1](https://user-images.githubusercontent.com/40853593/135751739-0a7a8279-cc63-4046-bf38-1aed338e295e.png)
 **Question 2**
 
 ![q2](https://user-images.githubusercontent.com/40853593/135728260-05cf5af6-118c-470c-a007-c25a4ad30f83.png)
